@@ -1,0 +1,15 @@
+/* 
+    Document   : auth-main
+    Created on : Sep 25, 2013, 10:06:43 PM
+    Author     : adeclerk
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.main {
+    background-color: #3399FF;
+}

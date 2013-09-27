@@ -31,4 +31,6 @@ Mobile Client
 Desktop Client
 ==============
 
+	-Authentication will relay to the Google Authentication of the web client to grant access to the user's
+		SMS data.
 	-The user should have the ability to read or manipulate SMS data, including READ, SEND, DELETE, and SAVE.

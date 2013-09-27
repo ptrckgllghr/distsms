@@ -5,8 +5,8 @@ DistSMS
 		SMS data.
 	-The user will access these clients using their Google Account, making the initial project specific 
 		to Android devices.
-	-An SMS event on a mobile device will trigger a event which will then be relayed through a server and 
-		to each of the clients.
+	-An SMS event on a mobile device will trigger a event which will then be relayed through a server 
+		and to each of the clients.
 	-The clients will provide an interface to view SMS and also archive the information.
 
 Web Client

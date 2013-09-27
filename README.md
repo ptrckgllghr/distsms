@@ -9,7 +9,8 @@ An SMS event on a mobile device will trigger a event which will then be relayed 
 
 The clients will provide an interface to view SMS and also archive the information.
 
----	Web Client ---
+Web Client
+==========
 
 	- A new session begun after a user passes Google Authentication.
 	- At the time of a new authentication all *new* SMS data is requested by the web client.
@@ -19,7 +20,8 @@ The clients will provide an interface to view SMS and also archive the informati
 	- The Web Client should use a combination of Java, Struts, Hibernate, HTML, Tag Libraries, XML,
 		and preferably AJAX.
 
----	Mobile Client ---
+Mobile Client
+=============
 	
 	- A new session begun after a user downloads the application from the Google Play Store and/or accesses
 		the application using Google Authentication.
@@ -27,6 +29,7 @@ The clients will provide an interface to view SMS and also archive the informati
 	- Archiving is optional, but SMS data may be saved and stored locally on the Android device.
 	- The user should have the ability to read or manipulate SMS data, including READ, SEND, DELETE, and SAVE
 
----	Desktop Client ---
+Desktop Client
+==============
 
 	- The user should have the ability to read or manipulate SMS data, including READ, SEND, DELETE, and SAVE.

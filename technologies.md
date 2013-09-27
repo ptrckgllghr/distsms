@@ -1,5 +1,5 @@
 Technologies
 ============
 
-Google OAuth
-Google Cloud Messaging for Android
+-Google OAuth
+-Google Cloud Messaging for Android

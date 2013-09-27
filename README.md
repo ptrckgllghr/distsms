@@ -2,8 +2,10 @@ DistSMS
 =======
 
 	The Goal of DistSMS is to provide web, desktop, and mobile clients for the access of personal SMS data.
-	The user will access these clients using their Google Account, making the initial project specific to Android devices.
-	An SMS event on a mobile device will trigger a event which will then be relayed through a server and to each of the clients.
+	The user will access these clients using their Google Account, making the initial project specific to Android 
+		devices.
+	An SMS event on a mobile device will trigger a event which will then be relayed through a server and to 
+		each of the clients.
 	The clients will provide an interface to view SMS and also archive the information.
 
 Web Client
@@ -11,7 +13,7 @@ Web Client
 
 	 A new session begun after a user passes Google Authentication.
 	 At the time of a new authentication all *new* SMS data is requested by the web client.
-		- Since personal storage is unlikely in the web client, any access to SMS Archive will
+		Since personal storage is unlikely in the web client, any access to SMS Archive will
 		be done through request, or this feature will be unavailable in the WebApp.
 	 The user should have the ability to read or manipulate SMS data, including READ, SEND, DELETE.
 	 The Web Client should use a combination of Java, Struts, Hibernate, HTML, Tag Libraries, XML,
